@@ -1,6 +1,6 @@
 # Community-Size Biases in Statistical Inference of Communities in Temporal Networks
 
-This code implements our comparison of four different methods for community detection in temporal networks.
+This code implements our comparison of four different methods for community detection in temporal networks, as described in this [paper](https://arxiv.org/abs/2601.15635).
 
 # Acknowledgements
 
